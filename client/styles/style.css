@@ -1,3 +1,7 @@
+body {
+  background-color: #000 !important;
+  color: #fff;
+}
 .grid-block, .main, .post, .comments li, .comment-form {
   background: #fff;
   border-radius: 3px;
